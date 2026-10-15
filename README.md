@@ -2,11 +2,11 @@
 
 # Julian Rojas
 
-I build **AI systems and full-stack software**. My focus is how people learn, how machines learn, and the interaction between them.
+I build **AI systems and full-stack software**. I’m fascinated by how people learn and reason, how machines learn, and what it takes to connect the two.
 
-I’m interested in tools that help people reason through problems and understand what they’re learning. I work on RAG pipelines, agent orchestration, and interface design, exploring when a system should explain, ask a question, or leave room for someone to figure things out.
+What draws me to machine learning is making everyday knowledge explicit: choosing examples, defining objectives, and checking what a model actually learns. Education is where I most want to apply that curiosity.
 
-I study Artificial Intelligence at Tetr College of Business and have built products in Dubai and India.
+My work spans RAG pipelines, agent orchestration, and interface design. I study Artificial Intelligence at Tetr College of Business and have built products in Dubai and India.
 
 [Portfolio ↗](https://julian-rojas.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/julianrojas-s/) · [X](https://x.com/julianro1011)
 
