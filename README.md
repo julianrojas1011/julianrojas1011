@@ -14,16 +14,16 @@ I’m interested in the decisions between a person and a system: what a learner 
 
 ### Selected work
 
-**[Lydo](https://lydoo-learning-demo.vercel.app/)** · Adaptive math tutoring  
+**[Lydo](https://lydoo-learning-demo.vercel.app/)** · Adaptive math tutoring<br>
 Co-built a tutor using learner profiles and uploaded materials. Led product design and contributed to its RAG pipeline. The link shows the landing demo.
 
-**[Napkin](https://www.usenapkin.com/)** · Feedback into product decisions  
+**[Napkin](https://www.usenapkin.com/)** · Feedback into product decisions<br>
 Designed the product and co-designed agent workflows that turn customer feedback into specifications and prioritized tasks, with a person reviewing the output. Delivered tailored implementations for businesses.
 
-**[Alltex](https://julian-rojas.vercel.app/portfolio/)** · Production workflows  
+**[Alltex](https://julian-rojas.vercel.app/portfolio/)** · Production workflows<br>
 Reworked production processes with the team and independently built the full-stack system, from customer inquiry to warehouse dispatch, including the database and role-based access.
 
-*Napkin and Alltex are commercial work; their source code is private.*
+*For Napkin and Alltex, the links above show the product and my work. Client implementation code is not included here.*
 
 ### Code you can explore
 
