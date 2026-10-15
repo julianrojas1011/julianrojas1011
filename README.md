@@ -2,11 +2,11 @@
 
 # Julian Rojas
 
-I build **AI systems and full-stack software**. I’m fascinated by what it takes to teach a model a real-world task: breaking it down, deciding what it needs to learn, and shaping its training and evaluation around that task.
+I build **AI systems and full-stack software**. I’m interested in learning from both sides: how people come to understand something, and how we teach machines to learn a task.
 
-I’m an AI student, program in Python, and have studied machine learning and neural networks. That interest connects with how people learn and reason, and why an explanation clicks for one person and leaves another stuck.
+That curiosity draws me to model design, training, and evaluation: breaking down a real-world problem, deciding what a model needs to learn, and figuring out how to teach it. It also shapes how I think about people: where an explanation clicks, where someone gets stuck, and what might help them understand.
 
-I want to build AI that gets to know each learner over time, adapts to their needs, and makes room for curiosity, creativity, and independent thinking. I also want to teach and share what I discover along the way.
+I want to bring these interests together in **education**: building AI that gets to know each learner, adapts to their needs, and helps them reason, explore, and discover for themselves.
 
 [Portfolio ↗](https://julian-rojas.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/julianrojas-s/) · [X](https://x.com/julianro1011)
 
