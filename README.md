@@ -1,3 +1,5 @@
+![Pip offers a blue piece to a human cursor, completing an open workflow between people and technology.](assets/pip-human-decision.png)
+
 # Julian Rojas
 
 I build **AI systems and full-stack software**, from RAG pipelines to agent orchestration and the interfaces people use to work with them.
