@@ -1,14 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Julian Rojas — software, AI, and the people using them. An organic line connects to a structured network." width="100%">
-</picture>
+# Julian Rojas
 
-### I build software around how people think, learn, and work.
+I build **AI systems and full-stack software**, from RAG pipelines to agent orchestration and the interfaces people use to work with them.
 
-I’m Julian, a software builder studying Artificial Intelligence at Tetr College of Business. I work across full-stack development, product design, and AI workflows.
+I start with how people think, learn, and make decisions. That shapes what I build: what an agent should handle, when a person should step in, and how the two can work together. I’m interested in how that relationship will change as AI becomes part of everyday life.
 
-I’m interested in the decisions between a person and a system: what a learner needs next, when an AI suggestion needs human review, and how an interface makes a complicated task feel clear. Building in Dubai and India, and working with teams in Ecuador, has taught me to question which assumptions travel well across cultures.
+I study Artificial Intelligence at Tetr College of Business. Building in Dubai and India, and working with teams in Ecuador, keeps challenging my assumptions about what people need from technology.
 
 [Portfolio ↗](https://julian-rojas.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/julianrojas-s/) · [X](https://x.com/julianro1011)
 
@@ -20,14 +16,14 @@ Co-built a tutor using learner profiles and uploaded materials. Led product desi
 **[Napkin](https://www.usenapkin.com/)** · Feedback into product decisions<br>
 Designed the product and co-designed agent workflows that turn customer feedback into specifications and prioritized tasks, with a person reviewing the output. Delivered tailored implementations for businesses.
 
+[Base repository](https://github.com/omdenkar2-ui/napkin) — the demo we built on and iterated from, separate from the later client implementations.
+
 **[Alltex](https://julian-rojas.vercel.app/portfolio/)** · Production workflows<br>
 Reworked production processes with the team and independently built the full-stack system, from customer inquiry to warehouse dispatch, including the database and role-based access.
 
-*For Napkin and Alltex, the links above show the product and my work. Client implementation code is not included here.*
+### Personal experiments
 
-### Code you can explore
+Two projects I built to understand how agents work:
 
-- **[StudyMate](https://github.com/julianrojas1011/studymate)** — A terminal study assistant with retrieval over lecture notes, persistent memory, and an MCP interface.
-- **[QuizForge](https://github.com/julianrojas1011/QuizForge)** — A terminal study tool with open-ended quizzes, adaptive difficulty, and study plans.
-
-<sub>Working with Python, TypeScript, React, Supabase, and Figma. Always interested in comparing notes on learning, human–AI interaction, and thoughtful software.</sub>
+- **[StudyMate](https://github.com/julianrojas1011/studymate)** — Connecting tool calls, conversation memory, retrieval over my notes, and an MCP interface.
+- **[QuizForge](https://github.com/julianrojas1011/QuizForge)** — Turning notes into quizzes and using quiz results to guide difficulty and a tool-calling study planner.

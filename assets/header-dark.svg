@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-<title id="title">Julian Rojas</title><desc id="desc">Software, AI, and the people using them. A hand-drawn line becomes a connected system.</desc>
-<rect width="1200" height="250" rx="12" fill="#161b22"/>
-<text x="52" y="106" fill="#f0f3ef" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-2">Julian Rojas</text>
-<text x="55" y="152" fill="#a6b2ac" font-family="Arial, sans-serif" font-size="21">Software, AI, and the people using them.</text>
-<g fill="none" stroke="#45544b" stroke-width="1.5"><path d="M800 125H875V69H970M875 125H1018M875 125V181H970"/><path d="M970 69H1066V125H1100M970 181H1066V125"/></g>
-<path d="M680 142C662 111 693 84 721 104C752 126 710 159 694 137C673 108 733 94 752 115C769 132 776 126 800 125" fill="none" stroke="#578575" stroke-width="3.2" stroke-linecap="round"/>
-<g fill="#161b22" stroke="#a6b2ac" stroke-width="1.7"><circle cx="800" cy="125" r="6"/><rect x="957" y="56" width="26" height="26" rx="5"/><rect x="1005" y="112" width="26" height="26" rx="5"/><rect x="957" y="168" width="26" height="26" rx="5"/><circle cx="1100" cy="125" r="6"/></g>
-</svg>
